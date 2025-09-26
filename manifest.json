@@ -5,7 +5,7 @@
   "files": [
     {
       "address": 65536,
-      "path": "firmwae.bin",
+      "path": "firmware_20250823 (1).bin",
       "chipFamily": "ESP32"
     }
   ]
